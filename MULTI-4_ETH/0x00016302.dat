@@ -10162,12 +10162,10 @@ Name       = "Tk:enable_measure_protocol"
 Type       = uInt
 Format     = "hex"
 Attrib     = Select
-Select_0   = "Tk:enable_plp"
-Value_0     = 1
-Select_1   = "Tk:xcp"
-Value_1     = 2
-Select_2   = "Tk:enable_tecmp"
-Value_2     = 4
+Select_0   = "Tk:xcp"
+Value_0     = 2
+Select_1   = "Tk:enable_tecmp"
+Value_1     = 4
 
 [future_1]
 Group      = 6
@@ -10177,25 +10175,25 @@ Row        = 2
 Name       = "Tk:future_1"
 Type       = uInt
 
-[plp_timeout_measure_interval]
+[tecmp_timeout_measure_interval]
 Group      = 3
 SubGroup   = 7
 Column     = 1
 Row        = 3
-Name       = "Tk:plp_timeout_measure_interval"
+Name       = "Tk:tecmp_timeout_measure_interval"
 Type       = uLong
 
-[plp_timeout_source]
+[tecmp_timeout_source]
 Group      = 3
 SubGroup   = 7
 Column     = 1
 Row        = 4
-Name       = "Tk:plp_timeout_source"
+Name       = "Tk:tecmp_timeout_source"
 Type       = uChar
 Attrib     = Select
-Select_0   = "Tk:plp_internel_timer"
+Select_0   = "Tk:tecmp_internel_timer"
 Value_0     = 0
-Select_1   = "Tk:plp_ptp_timer"
+Select_1   = "Tk:tecmp_ptp_timer"
 Value_1     = 1
 
 [future_2]

@@ -6256,7 +6256,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 2
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6266,8 +6266,8 @@ Mask_0     = 0x2
 
 [rmsid_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 8
+Column     = 2
 Row        = 2
 Name       = "Tk:rmsid_1"
 Type       = uLong
@@ -6276,7 +6276,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 3
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6286,8 +6286,8 @@ Mask_0     = 0x2
 
 [frequencyid_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 8
+Column     = 3
 Row        = 2
 Name       = "Tk:frequencyid_1"
 Type       = uLong
@@ -6296,7 +6296,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 4
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6306,8 +6306,8 @@ Mask_0     = 0x2
 
 [acoffset_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 8
+Column     = 4
 Row        = 2
 Name       = "Tk:acoffset_1"
 Type       = uLong
@@ -6316,7 +6316,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 2
+Column     = 5
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6327,7 +6327,7 @@ Mask_0     = 0x2
 [chargebalancetotalid_1]
 Group      = 6
 SubGroup   = 8
-Column     = 2
+Column     = 5
 Row        = 2
 Name       = "Tk:chargebalancetotalid_1"
 Type       = uLong
@@ -6336,7 +6336,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 3
+Column     = 6
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6347,7 +6347,7 @@ Mask_0     = 0x2
 [chargebalancechargeid_1]
 Group      = 6
 SubGroup   = 8
-Column     = 3
+Column     = 6
 Row        = 2
 Name       = "Tk:chargebalancechargeid_1"
 Type       = uLong
@@ -6356,7 +6356,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 4
+Column     = 7
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6367,7 +6367,7 @@ Mask_0     = 0x2
 [chargebalancedischargeid_1]
 Group      = 6
 SubGroup   = 8
-Column     = 4
+Column     = 7
 Row        = 2
 Name       = "Tk:chargebalancedischargeid_1"
 Type       = uLong
@@ -6396,7 +6396,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 2
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6406,8 +6406,8 @@ Mask_0     = 0x2
 
 [rmsid_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 9
+Column     = 2
 Row        = 2
 Name       = "Tk:rmsid_1"
 Type       = uLong
@@ -6416,7 +6416,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 3
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6426,8 +6426,8 @@ Mask_0     = 0x2
 
 [frequencyid_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 9
+Column     = 3
 Row        = 2
 Name       = "Tk:frequencyid_1"
 Type       = uLong
@@ -6436,7 +6436,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 4
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6446,8 +6446,8 @@ Mask_0     = 0x2
 
 [acoffset_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 9
+Column     = 4
 Row        = 2
 Name       = "Tk:acoffset_1"
 Type       = uLong
@@ -6456,7 +6456,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 2
+Column     = 5
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6467,7 +6467,7 @@ Mask_0     = 0x2
 [chargebalancetotalid_1]
 Group      = 6
 SubGroup   = 9
-Column     = 2
+Column     = 5
 Row        = 2
 Name       = "Tk:chargebalancetotalid_1"
 Type       = uLong
@@ -6476,7 +6476,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 3
+Column     = 6
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6487,7 +6487,7 @@ Mask_0     = 0x2
 [chargebalancechargeid_1]
 Group      = 6
 SubGroup   = 9
-Column     = 3
+Column     = 6
 Row        = 2
 Name       = "Tk:chargebalancechargeid_1"
 Type       = uLong
@@ -6496,7 +6496,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 4
+Column     = 7
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6507,7 +6507,7 @@ Mask_0     = 0x2
 [chargebalancedischargeid_1]
 Group      = 6
 SubGroup   = 9
-Column     = 4
+Column     = 7
 Row        = 2
 Name       = "Tk:chargebalancedischargeid_1"
 Type       = uLong
@@ -6536,7 +6536,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 2
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6546,8 +6546,8 @@ Mask_0     = 0x2
 
 [rmsid_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 10
+Column     = 2
 Row        = 2
 Name       = "Tk:rmsid_1"
 Type       = uLong
@@ -6556,7 +6556,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 3
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6566,8 +6566,8 @@ Mask_0     = 0x2
 
 [frequencyid_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 10
+Column     = 3
 Row        = 2
 Name       = "Tk:frequencyid_1"
 Type       = uLong
@@ -6576,7 +6576,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 4
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6586,8 +6586,8 @@ Mask_0     = 0x2
 
 [acoffset_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 10
+Column     = 4
 Row        = 2
 Name       = "Tk:acoffset_1"
 Type       = uLong
@@ -6596,7 +6596,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 2
+Column     = 5
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6607,7 +6607,7 @@ Mask_0     = 0x2
 [chargebalancetotalid_1]
 Group      = 6
 SubGroup   = 10
-Column     = 2
+Column     = 5
 Row        = 2
 Name       = "Tk:chargebalancetotalid_1"
 Type       = uLong
@@ -6616,7 +6616,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 3
+Column     = 6
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6627,7 +6627,7 @@ Mask_0     = 0x2
 [chargebalancechargeid_1]
 Group      = 6
 SubGroup   = 10
-Column     = 3
+Column     = 6
 Row        = 2
 Name       = "Tk:chargebalancechargeid_1"
 Type       = uLong
@@ -6636,7 +6636,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 4
+Column     = 7
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6647,7 +6647,7 @@ Mask_0     = 0x2
 [chargebalancedischargeid_1]
 Group      = 6
 SubGroup   = 10
-Column     = 4
+Column     = 7
 Row        = 2
 Name       = "Tk:chargebalancedischargeid_1"
 Type       = uLong
@@ -6676,7 +6676,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 2
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6686,8 +6686,8 @@ Mask_0     = 0x2
 
 [rmsid_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 11
+Column     = 2
 Row        = 2
 Name       = "Tk:rmsid_1"
 Type       = uLong
@@ -6696,7 +6696,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 3
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6706,8 +6706,8 @@ Mask_0     = 0x2
 
 [frequencyid_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 11
+Column     = 3
 Row        = 2
 Name       = "Tk:frequencyid_1"
 Type       = uLong
@@ -6716,7 +6716,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 4
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6726,8 +6726,8 @@ Mask_0     = 0x2
 
 [acoffset_1]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 11
+Column     = 4
 Row        = 2
 Name       = "Tk:acoffset_1"
 Type       = uLong
@@ -6736,7 +6736,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 2
+Column     = 5
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6747,7 +6747,7 @@ Mask_0     = 0x2
 [chargebalancetotalid_1]
 Group      = 6
 SubGroup   = 11
-Column     = 2
+Column     = 5
 Row        = 2
 Name       = "Tk:chargebalancetotalid_1"
 Type       = uLong
@@ -6756,7 +6756,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 3
+Column     = 6
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6767,7 +6767,7 @@ Mask_0     = 0x2
 [chargebalancechargeid_1]
 Group      = 6
 SubGroup   = 11
-Column     = 3
+Column     = 6
 Row        = 2
 Name       = "Tk:chargebalancechargeid_1"
 Type       = uLong
@@ -6776,7 +6776,7 @@ Format     = "hex"
 [interface_1]
 Group      = 6
 SubGroup   = 1
-Column     = 4
+Column     = 7
 Row        = 1
 Name       = "Tk:interface_1"
 Type       = uLong
@@ -6787,7 +6787,7 @@ Mask_0     = 0x2
 [chargebalancedischargeid_1]
 Group      = 6
 SubGroup   = 11
-Column     = 4
+Column     = 7
 Row        = 2
 Name       = "Tk:chargebalancedischargeid_1"
 Type       = uLong
@@ -7376,7 +7376,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 2
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7386,8 +7386,8 @@ Mask_0     = 0x2
 
 [rmsid_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 8
+Column     = 2
 Row        = 3
 Name       = "Tk:rmsid_2"
 Type       = uLong
@@ -7396,7 +7396,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 3
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7406,8 +7406,8 @@ Mask_0     = 0x2
 
 [frequencyid_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 8
+Column     = 3
 Row        = 3
 Name       = "Tk:frequencyid_2"
 Type       = uLong
@@ -7416,7 +7416,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 4
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7426,8 +7426,8 @@ Mask_0     = 0x2
 
 [acoffset_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 8
+Column     = 4
 Row        = 3
 Name       = "Tk:acoffset_2"
 Type       = uLong
@@ -7436,7 +7436,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 2
+Column     = 5
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7447,7 +7447,7 @@ Mask_0     = 0x2
 [chargebalancetotalid_2]
 Group      = 6
 SubGroup   = 8
-Column     = 2
+Column     = 5
 Row        = 3
 Name       = "Tk:chargebalancetotalid_2"
 Type       = uLong
@@ -7456,7 +7456,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 3
+Column     = 6
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7467,7 +7467,7 @@ Mask_0     = 0x2
 [chargebalancechargeid_2]
 Group      = 6
 SubGroup   = 8
-Column     = 3
+Column     = 6
 Row        = 3
 Name       = "Tk:chargebalancechargeid_2"
 Type       = uLong
@@ -7476,7 +7476,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 4
+Column     = 7
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7487,7 +7487,7 @@ Mask_0     = 0x2
 [chargebalancedischargeid_2]
 Group      = 6
 SubGroup   = 8
-Column     = 4
+Column     = 7
 Row        = 3
 Name       = "Tk:chargebalancedischargeid_2"
 Type       = uLong
@@ -7516,7 +7516,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 2
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7526,8 +7526,8 @@ Mask_0     = 0x2
 
 [rmsid_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 9
+Column     = 2
 Row        = 3
 Name       = "Tk:rmsid_2"
 Type       = uLong
@@ -7536,7 +7536,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 3
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7546,8 +7546,8 @@ Mask_0     = 0x2
 
 [frequencyid_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 9
+Column     = 3
 Row        = 3
 Name       = "Tk:frequencyid_2"
 Type       = uLong
@@ -7556,7 +7556,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 4
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7566,8 +7566,8 @@ Mask_0     = 0x2
 
 [acoffset_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 9
+Column     = 4
 Row        = 3
 Name       = "Tk:acoffset_2"
 Type       = uLong
@@ -7576,7 +7576,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 2
+Column     = 5
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7587,7 +7587,7 @@ Mask_0     = 0x2
 [chargebalancetotalid_2]
 Group      = 6
 SubGroup   = 9
-Column     = 2
+Column     = 5
 Row        = 3
 Name       = "Tk:chargebalancetotalid_2"
 Type       = uLong
@@ -7596,7 +7596,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 3
+Column     = 6
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7607,7 +7607,7 @@ Mask_0     = 0x2
 [chargebalancechargeid_2]
 Group      = 6
 SubGroup   = 9
-Column     = 3
+Column     = 6
 Row        = 3
 Name       = "Tk:chargebalancechargeid_2"
 Type       = uLong
@@ -7616,7 +7616,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 4
+Column     = 7
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7627,7 +7627,7 @@ Mask_0     = 0x2
 [chargebalancedischargeid_2]
 Group      = 6
 SubGroup   = 9
-Column     = 4
+Column     = 7
 Row        = 3
 Name       = "Tk:chargebalancedischargeid_2"
 Type       = uLong
@@ -7656,7 +7656,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 2
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7666,8 +7666,8 @@ Mask_0     = 0x2
 
 [rmsid_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 10
+Column     = 2
 Row        = 3
 Name       = "Tk:rmsid_2"
 Type       = uLong
@@ -7676,7 +7676,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 3
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7686,8 +7686,8 @@ Mask_0     = 0x2
 
 [frequencyid_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 10
+Column     = 3
 Row        = 3
 Name       = "Tk:frequencyid_2"
 Type       = uLong
@@ -7696,7 +7696,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 4
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7706,8 +7706,8 @@ Mask_0     = 0x2
 
 [acoffset_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 10
+Column     = 4
 Row        = 3
 Name       = "Tk:acoffset_2"
 Type       = uLong
@@ -7716,7 +7716,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 2
+Column     = 5
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7727,7 +7727,7 @@ Mask_0     = 0x2
 [chargebalancetotalid_2]
 Group      = 6
 SubGroup   = 10
-Column     = 2
+Column     = 5
 Row        = 3
 Name       = "Tk:chargebalancetotalid_2"
 Type       = uLong
@@ -7736,7 +7736,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 3
+Column     = 6
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7747,7 +7747,7 @@ Mask_0     = 0x2
 [chargebalancechargeid_2]
 Group      = 6
 SubGroup   = 10
-Column     = 3
+Column     = 6
 Row        = 3
 Name       = "Tk:chargebalancechargeid_2"
 Type       = uLong
@@ -7756,7 +7756,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 4
+Column     = 7
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7767,7 +7767,7 @@ Mask_0     = 0x2
 [chargebalancedischargeid_2]
 Group      = 6
 SubGroup   = 10
-Column     = 4
+Column     = 7
 Row        = 3
 Name       = "Tk:chargebalancedischargeid_2"
 Type       = uLong
@@ -7796,7 +7796,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 2
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7806,8 +7806,8 @@ Mask_0     = 0x2
 
 [rmsid_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 11
+Column     = 2
 Row        = 3
 Name       = "Tk:rmsid_2"
 Type       = uLong
@@ -7816,7 +7816,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 3
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7826,8 +7826,8 @@ Mask_0     = 0x2
 
 [frequencyid_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 11
+Column     = 3
 Row        = 3
 Name       = "Tk:frequencyid_2"
 Type       = uLong
@@ -7836,7 +7836,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 1
+Column     = 4
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7846,8 +7846,8 @@ Mask_0     = 0x2
 
 [acoffset_2]
 Group      = 6
-SubGroup   = 1
-Column     = 1
+SubGroup   = 11
+Column     = 4
 Row        = 3
 Name       = "Tk:acoffset_2"
 Type       = uLong
@@ -7856,7 +7856,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 2
+Column     = 5
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7867,7 +7867,7 @@ Mask_0     = 0x2
 [chargebalancetotalid_2]
 Group      = 6
 SubGroup   = 11
-Column     = 2
+Column     = 5
 Row        = 3
 Name       = "Tk:chargebalancetotalid_2"
 Type       = uLong
@@ -7876,7 +7876,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 3
+Column     = 6
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7887,7 +7887,7 @@ Mask_0     = 0x2
 [chargebalancechargeid_2]
 Group      = 6
 SubGroup   = 11
-Column     = 3
+Column     = 6
 Row        = 3
 Name       = "Tk:chargebalancechargeid_2"
 Type       = uLong
@@ -7896,7 +7896,7 @@ Format     = "hex"
 [interface_2]
 Group      = 6
 SubGroup   = 1
-Column     = 4
+Column     = 7
 Row        = 2
 Name       = "Tk:interface_2"
 Type       = uLong
@@ -7907,7 +7907,7 @@ Mask_0     = 0x2
 [chargebalancedischargeid_2]
 Group      = 6
 SubGroup   = 11
-Column     = 4
+Column     = 7
 Row        = 3
 Name       = "Tk:chargebalancedischargeid_2"
 Type       = uLong
@@ -10162,12 +10162,10 @@ Name       = "Tk:enable_measure_protocol"
 Type       = uInt
 Format     = "hex"
 Attrib     = Select
-Select_0   = "Tk:enable_plp"
-Value_0     = 1
-Select_1   = "Tk:xcp"
-Value_1     = 2
-Select_2   = "Tk:enable_tecmp"
-Value_2     = 4
+Select_0   = "Tk:xcp"
+Value_0     = 2
+Select_1   = "Tk:enable_tecmp"
+Value_1     = 4
 
 [future_1]
 Group      = 6
@@ -10177,25 +10175,25 @@ Row        = 2
 Name       = "Tk:future_1"
 Type       = uInt
 
-[plp_timeout_measure_interval]
+[tecmp_timeout_measure_interval]
 Group      = 3
 SubGroup   = 7
 Column     = 1
 Row        = 3
-Name       = "Tk:plp_timeout_measure_interval"
+Name       = "Tk:tecmp_timeout_measure_interval"
 Type       = uLong
 
-[plp_timeout_source]
+[tecmp_timeout_source]
 Group      = 3
 SubGroup   = 7
 Column     = 1
 Row        = 4
-Name       = "Tk:plp_timeout_source"
+Name       = "Tk:tecmp_timeout_source"
 Type       = uChar
 Attrib     = Select
-Select_0   = "Tk:plp_internel_timer"
+Select_0   = "Tk:tecmp_internel_timer"
 Value_0     = 0
-Select_1   = "Tk:plp_ptp_timer"
+Select_1   = "Tk:tecmp_ptp_timer"
 Value_1     = 1
 
 [future_2]
